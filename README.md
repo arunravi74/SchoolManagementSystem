@@ -1,4 +1,4 @@
-# SchoolManagementSystem
+# SchoolManagementSystem-API
 
 #Can Create Staff and Student
 
